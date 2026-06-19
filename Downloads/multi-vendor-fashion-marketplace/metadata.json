@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Vendor Fashion Marketplace",
+  "description": "A premium multi-vendor fashion clothing marketplace platform featuring Customer, Vendor, and Super Admin dashboards, AI Fashion Assistant, real-time order tracking, and checkout flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
